@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Fontaine\'s 5</string>
     <string name="welcome_cash_crew">Welcome Cash Crew!</string>
+    <string name="F5LogoHomePage">F5LogoHomePage</string>
     <string name="goMLB">MLB</string>
     <string name="goNBA">NBA</string>
     <string name="goNFL">NFL</string>
