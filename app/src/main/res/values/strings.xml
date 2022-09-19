@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fontaine\'s 5</string>
+    <string name="welcome_cash_crew">Welcome Cash Crew!</string>
+    <string name="goMLB">MLB</string>
+    <string name="goNBA">NBA</string>
+    <string name="goNFL">NFL</string>
+    <string name="welcomeMLB">Welcome to the MLB Page</string>
+    <string name="welcomeNBA">Welcome to the NBA Page</string>
+    <string name="welcomeNFL">Welcome to the NFL Page</string>
+</resources>
