@@ -10,11 +10,16 @@
         android:id="@+id/lblNBAPage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
         android:layout_marginTop="100dp"
-        android:textColor="#fff"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
         android:background="#333"
         android:gravity="center"
         android:text="@string/welcomeNBA"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="123dp" />
+        android:textColor="#fff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

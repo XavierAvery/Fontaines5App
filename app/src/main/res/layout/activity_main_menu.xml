@@ -98,6 +98,7 @@
         android:layout_marginStart="108dp"
         android:layout_marginLeft="108dp"
         android:layout_marginTop="4dp"
+        android:contentDescription="@string/F5LogoHomePage"
         app:layout_constraintBottom_toTopOf="@+id/MainMenuWelcomeMess"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
